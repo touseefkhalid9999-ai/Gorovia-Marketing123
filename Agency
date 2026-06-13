@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Growvia Marketing</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background: #f5f5f5;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        text-align: center;
+    }
+
+    h1 {
+        color: #0d6efd;
+        margin-bottom: 10px;
+    }
+
+    p {
+        color: #555;
+        line-height: 1.6;
+    }
+
+    .services {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 25px;
+    }
+
+    .service {
+        background: #0d6efd;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 8px;
+        min-width: 180px;
+    }
+
+    .btn {
+        display: inline-block;
+        margin-top: 25px;
+        padding: 12px 25px;
+        background: #25D366;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+
+    .btn:hover {
+        background: #1da851;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Growvia Marketing</h1>
+    <p>
+        Helping Local Businesses Grow Through Local SEO, Google Business Profile Optimization,
+        Web Development, and Social Media Marketing.
+    </p>
+
+    <div class="services">
+        <div class="service">Local SEO</div>
+        <div class="service">Google Maps SEO</div>
+        <div class="service">Web Development</div>
+        <div class="service">Social Media Marketing</div>
+    </div>
+
+    <a class="btn" href="https://wa.me/923217280100" target="_blank">
+        Contact on WhatsApp
+    </a>
+</div>
+
+</body>
+</html>
